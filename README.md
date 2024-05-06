@@ -62,7 +62,7 @@
 
 ![5o1](https://github.com/varshinidevaraju/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144870750/b3fa620f-317c-43e4-9504-63d9f5e30e01)
 
-![5o2](https://github.com/varshinidevaraju/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144870750/d3f90c84-098d-4a1b-8244-e346c2bf09c5)
+![5o2](https://github.com/varshinidevaraju/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144870750/f21a918e-bf6d-4d90-8710-cc68386501ab)
 
 ![5o3](https://github.com/varshinidevaraju/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144870750/525f89de-4ec7-41c2-a905-719033885979)
 
