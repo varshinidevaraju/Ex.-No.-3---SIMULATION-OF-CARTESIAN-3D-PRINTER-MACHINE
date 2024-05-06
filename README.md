@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 27-04-2024
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -60,8 +60,19 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![5o1](https://github.com/varshinidevaraju/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144870750/b3fa620f-317c-43e4-9504-63d9f5e30e01)
+
+![5o2](https://github.com/varshinidevaraju/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144870750/d3f90c84-098d-4a1b-8244-e346c2bf09c5)
+
+![5o3](https://github.com/varshinidevaraju/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144870750/525f89de-4ec7-41c2-a905-719033885979)
+
+![504](https://github.com/varshinidevaraju/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144870750/a87b9e42-d47a-4aff-95e2-42a27c4957d7)
+
+![5o5](https://github.com/varshinidevaraju/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144870750/71460402-1f18-45a7-8648-8be95cbc4a3b)
+
+
+### Name: D.Varshini
+### Register Number:212223230234
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
